@@ -1,0 +1,15 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "dart_full_console_app",
+      "request": "launch",
+      "type": "dart",
+      "program": "bin/dart_full_console_app.dart",
+      "args": ["1", "2", "3", "4", "5"]
+    }
+  ]
+}
